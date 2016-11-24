@@ -237,7 +237,6 @@ article.li.sm>header {
 .article-body blockquote {
   margin: 1.5rem 0;
   padding: .5rem 0;
-  font-size: .8rem;
   border-top: 1px solid #eceff1;
   border-bottom: 1px solid #eceff1;
   color: #607d8b;
@@ -248,14 +247,8 @@ article.li.sm>header {
   line-height: 1rem;
 }
 
-.article-body strong {
-  box-shadow: 0 -.5rem 0 0 #5bc0de inset;
-}
-
 .article-body em {
-  font-style: normal;
-  font-weight: 700;
-  color: #428bca;
+  font-style: italic;
 }
 
 .article-body figure { margin: 1.5rem 0; }
