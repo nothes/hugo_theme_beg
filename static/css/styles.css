@@ -255,8 +255,8 @@ article.li.sm>header {
 .article-body figure img { max-width: 100%; }
 .article-body figure.left,
 .article-body figure.right {
-  width: 15rem;
-  height: 12rem;
+#  width: 15rem;
+#  height: 12rem;
   margin-top: 0;
 }
 .article-body figure.left { float: left; margin-right: 1rem; }
